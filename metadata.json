@@ -1,0 +1,6 @@
+{
+  "name": "Vachan - AI-Assisted AAC Prototype",
+  "description": "An AI-assisted Augmentative and Alternative Communication (AAC) prototype designed for individuals with unclear, shaky, or dysarthric speech.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
